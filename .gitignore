@@ -1,0 +1,9 @@
+/.idea/
+/apps/
+/cfg.local*.sh
+/cfg.test*.sh
+/tmp/
+/var/log/
+/var/log/!.gitkeep
+/var/pid/
+/var/pid/!.gitkeep
